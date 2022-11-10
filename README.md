@@ -1,1 +1,1 @@
-# ExcelProjects
+# Microsoft Excel Analytics Projects
